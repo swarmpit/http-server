@@ -1,4 +1,4 @@
-#http-server
+# http-server
 
 ![](https://github.com/nodeapps/http-server/raw/master/screenshots/public.png)
 

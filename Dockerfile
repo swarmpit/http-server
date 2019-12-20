@@ -6,4 +6,5 @@ WORKDIR /public
 
 EXPOSE 8080
 
-ENTRYPOINT ["http-server"]
+
+ENTRYPOINT ["http-server" "-de"]
